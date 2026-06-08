@@ -228,11 +228,11 @@ function Header({ onRequestDemo }: { onRequestDemo?: () => void }) {
         <div className="absolute inset-x-4 top-0 h-px rounded-full bg-gradient-to-r from-transparent via-white/18 to-transparent opacity-70" />
 
         {/* Logo */}
-        <motion.a href="#" className="flex items-center gap-3" whileHover={{ scale: 1.02 }} transition={{ ease: EASE_SPRING }}>
-          <img src="/logo.png" alt="VASP Logo" className="h-9 w-9 object-contain rounded-lg bg-white p-0.5 border border-white/10" />
+        <motion.a href="/" className="flex items-center gap-3.5" whileHover={{ scale: 1.02 }} transition={{ ease: EASE_SPRING }}>
+          <img src="/logo.png" alt="VASP Logo" className="h-12 w-12 object-contain rounded-lg bg-white p-0.5 border border-white/10" />
           <div className="hidden leading-tight sm:block text-left">
-            <div className="text-[12px] font-black tracking-[0.14em] text-foreground">VASP SYSTEMIC</div>
-            <div className="text-[8px] tracking-[0.12em] font-mono text-muted-foreground">RAIL SYSTEM ENGINE</div>
+            <div className="text-[15px] font-black tracking-[0.14em] text-foreground">VASP SYSTEMIC</div>
+            <div className="text-[10px] tracking-[0.12em] font-mono text-muted-foreground">RAIL SYSTEM ENGINE</div>
           </div>
         </motion.a>
 
@@ -684,11 +684,11 @@ function Footer() {
       <div className="relative mx-auto max-w-6xl px-6 py-20">
         <div className="flex flex-col items-start justify-between gap-10 md:flex-row md:items-center">
           <div>
-            <div className="flex items-center gap-3">
-              <img src="/logo.png" alt="VASP Logo" className="h-10 w-10 object-contain rounded-lg bg-white p-0.5 border border-white/10" />
+            <div className="flex items-center gap-3.5">
+              <img src="/logo.png" alt="VASP Logo" className="h-12 w-12 object-contain rounded-lg bg-white p-0.5 border border-white/10" />
               <div className="text-left">
-                <div className="text-sm font-bold tracking-wider text-foreground">VASP SYSTEMIC</div>
-                <div className="text-[10px] tracking-wider text-muted-foreground">PRIVATE LIMITED</div>
+                <div className="text-base font-bold tracking-wider text-foreground">VASP SYSTEMIC</div>
+                <div className="text-xs tracking-wider text-muted-foreground">PRIVATE LIMITED</div>
               </div>
             </div>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-muted-foreground">
