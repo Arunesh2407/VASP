@@ -1,0 +1,26 @@
+Act as an elite Creative Director and Principal Full-Stack Engineer with 30+ years of industry experience. Build an absolute masterpiece of a corporate marketing and product showcase website for 'VASP Systemic Pvt. Ltd.', a cutting-edge railway IoT, automation, and hardware engineering firm. 
+
+The website must look incredibly expensive, bespoke, and visually stunning, utilizing advanced layout structures and elite frontend engineering.
+
+1. Brand, Color & Depth (Spatial Design):
+- Color Palette: Deep, cinematic midnight navy base (#020617) to provide infinite depth. Use the primary 'Vibrant Orange' from the uploaded logo strictly as an intentional accent color for primary CTAs, critical status indicators, and active hover states. Use 'Railway Royal Blue' for ambient glows and subtle background linear gradients.
+- Typography: Use a premium sans-serif typography layout (like 'Geist Sans' or 'Inter') with meticulous letter-spacing tracking, distinct font weights, and an elegant visual hierarchy.
+- Spatial Layering: Implement a sophisticated 'Glassmorphism' layout. Component cards must feature ultra-subtle borders (white/10%), soft backdrop-blur effects, and a deep layered Z-index strategy that gives a multi-dimensional feel.
+
+2. High-End Motion Signature (Framer Motion & Custom Physics):
+- Fluid Entrance: Implement an elite staggered layout animation sequence using Framer Motion. When the page loads, elements must cascade into place with a custom cubic-bezier curve (e.g., [0.16, 1, 0.3, 1]) for ultra-premium, smooth deceleration.
+- Scroll-Linked Metaphor: As the user scrolls, implement a subtle visual 'rail track' vector path or a sleek glowing connectivity line that traces the layout, dynamically connecting the sections together to represent a railway network.
+- Interactive Physics: All feature and service cards must feature a 3D tilt/parallax mouse-tracking effect. Moving the cursor over a card should gently tilt it toward the cursor, creating a highly tactile, premium feel.
+- Hero Background: The hero section must feature an interactive, high-performance ambient particle field or a slow-shifting mesh gradient that reacts subtly to mouse movement, symbolizing live data networks and connectivity.
+
+3. Complex Elite Layout Structure:
+- Sticky Navigation: A beautifully integrated glassmorphism header featuring a logo layout on the left, an interactive navigation menu (Services, About, Careers, Hackathon), a global language selector micro-interaction, and a high-contrast 'Contact Us' button.
+- The Hero: A sweeping, cinematic left-aligned header 'Driving Innovation for Railway Systems' paired with an incredibly detailed, animated layout placeholder showing a stylized 3D/vector train silhouette or a glowing circuit matrix. Include two bespoke buttons with magnetic hover attraction.
+- Animated Metrics Counter: A section showcasing '10+ Years in the Market', '50+ Railway Projects', and '100+ Innovative Solutions'. The numbers must smoothly animate and count up using a scroll-triggered custom hook, flanked by mini text summaries describing their specific focus areas (ACP, Hot Axle, Brake Binding, OBHS).
+- Solutions Matrix (Services): A gorgeous asymmetrical grid showcasing the core solutions (Smart Coach, Locomotive Object Detection, Rapid Rail Response, IoT & Hardware). Each card must contain unique custom icon layouts, structured data lists, and a sleek inner-glow outline that highlights on hover.
+- Social Proof Carousel: A perfectly polished, infinite-looping horizontal logo slider showcasing 'Trusted by Industry Leaders' in a beautiful, muted grayscale filter that shifts to full color smoothly on mouse hover.
+
+4. Technical Execution:
+- Built strictly using React, Tailwind CSS, and Framer Motion.
+- Ensure 60fps scrolling and absolute responsiveness across mobile, tablet, and widescreen desktop monitors.
+- Ensure the code architecture is clean, highly modular, performance-optimized, and fully matches the aesthetic of an elite global tech corporation.

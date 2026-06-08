@@ -1,0 +1,114 @@
+Act as a Senior Motion Designer, Three.js Engineer, and Award-Winning Creative Director.
+
+IMPORTANT:
+Do NOT redesign the website.
+Do NOT change the content, typography hierarchy, color palette, navigation, buttons, spacing, or existing layout.
+
+The only task is to replace the current right-side hero animation with a premium animated railway visualization.
+
+DESIGN GOAL
+
+The website should feel like a futuristic railway technology company, not a train booking website and not a generic IoT dashboard.
+
+The visual style should resemble:
+
+* Apple product launches
+* Rivian
+* Linear
+* Tesla
+* Modern cinematic sci-fi interfaces
+
+HERO ANIMATION CONCEPT
+
+Create a large holographic train made entirely from particles, glowing points, wireframes, and animated light trails.
+
+The train should NOT look like a realistic photo.
+It should look like a digital twin, simulation, or engineering visualization.
+
+ANIMATION SEQUENCE
+
+When the page first loads:
+
+1. Train Assembly Phase (0-2 seconds)
+
+* Thousands of particles begin converging.
+* A train silhouette gradually forms.
+* Orange and blue particles travel along the train body.
+* The effect should feel like a digital system booting up.
+
+2. Arrival Phase (2-5 seconds)
+
+* The train moves forward slightly toward the viewer.
+* Motion blur and light trails appear.
+* Headlights glow softly.
+* Camera remains fixed.
+* Animation should be elegant, not aggressive.
+
+3. Idle Phase (after 5 seconds)
+
+* Train becomes stationary.
+* Small particles continue moving through the structure.
+* Nodes pulse occasionally.
+* Subtle energy flows along the train body.
+* Headlight gently breathes.
+* Very slow ambient movement only.
+
+4. Hover Interaction
+
+* Mouse movement creates subtle parallax.
+* Train responds slightly to cursor position.
+* No large rotations.
+* Keep interactions sophisticated.
+
+VISUAL REQUIREMENTS
+
+* No rectangular card container.
+* No visible borders.
+* No dashboard UI.
+* No labels like ACP, IoT, HW, Hub.
+* No floating widgets.
+* The train should occupy roughly 40-50% of the hero width.
+* The animation should blend naturally into the background.
+
+STYLE REQUIREMENTS
+
+Use:
+
+* Particle systems
+* SVG paths
+* Canvas rendering
+* Framer Motion
+* Three.js or React Three Fiber if needed
+
+Avoid:
+
+* Cartoon trains
+* Clipart trains
+* Static train images
+* Generic stock illustrations
+* Train tracking dashboards
+
+LIGHTING
+
+* Deep navy environment.
+* Orange energy trails.
+* Railway-blue ambient glow.
+* Soft fog.
+* Cinematic depth.
+* Volumetric lighting effects where possible.
+
+PERFORMANCE
+
+* Maintain 60 FPS.
+* Lazy load heavy assets.
+* Optimize particle counts.
+* Mobile responsive.
+* Respect reduced-motion preferences.
+
+FINAL RESULT
+
+The visitor should see:
+
+A futuristic digital railway system materializing from data, moving briefly when the page loads, and then remaining as a sophisticated living hologram that subtly animates while the user reads the content.
+
+The effect should feel like a multi-million-dollar enterprise technology website rather than a traditional railway website.

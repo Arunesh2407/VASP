@@ -1,0 +1,27 @@
+kind = "mobile"
+previewPath = "/vasp-systemic-mobile/"
+title = "VASP Systemic Mobile"
+version = "1.0.0"
+id = "artifacts/vasp-systemic-mobile"
+router = "expo-domain"
+
+[[integratedSkills]]
+name = "expo"
+version = "1.0.0"
+
+[[services]]
+ensurePreviewReachable = "/status"
+name = "expo"
+paths = [ "/vasp-systemic-mobile/" ]
+localPort = 19688
+
+[services.development]
+run = "pnpm --filter @workspace/vasp-systemic-mobile run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/vasp-systemic-mobile", "run", "build" ]
+run = [ "pnpm", "--filter", "@workspace/vasp-systemic-mobile", "run", "serve" ]
+
+[services.env]
+PORT = "19688"
+BASE_PATH = "/vasp-systemic-mobile/"

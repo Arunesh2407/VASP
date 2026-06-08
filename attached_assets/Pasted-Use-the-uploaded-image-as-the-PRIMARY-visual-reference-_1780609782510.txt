@@ -1,0 +1,204 @@
+Use the uploaded image as the PRIMARY visual reference for the train.
+
+IMPORTANT:
+The uploaded image is NOT an asset to display on the website.
+
+Do NOT place the image in the hero section.
+
+Instead, recreate the same artistic style, atmosphere, train design language, lighting, colors, and visual quality using actual code and animations.
+
+The uploaded image represents the exact visual direction I want.
+
+======================================================
+GOAL
+====
+
+Replace the current static train hero visual with a dynamic premium digital railway experience.
+
+The train must feel alive.
+
+The visitor should feel like they are watching a futuristic railway system boot up and come online.
+
+The visual quality should match the uploaded reference image.
+
+======================================================
+VISUAL STYLE
+============
+
+Match the uploaded image:
+
+* Holographic locomotive
+* Digital twin aesthetic
+* Blue wireframe geometry
+* Orange energy accents
+* Particle-based construction
+* Glowing railway tracks
+* Cinematic depth
+* Volumetric lighting
+* Futuristic engineering visualization
+
+The train should be:
+
+50% Real Locomotive
+50% Digital Twin
+
+Do not create a realistic photo.
+
+Do not create a cartoon.
+
+Do not create clipart.
+
+======================================================
+ANIMATION SEQUENCE
+==================
+
+PAGE LOAD
+
+Initially:
+
+* no train visible
+* floating particles
+* ambient energy field
+* faint futuristic railway tracks
+
+---
+
+PHASE 1 : TRAIN ASSEMBLY
+
+Duration: 0 - 2.5 seconds
+
+The train assembles from:
+
+* particles
+* glowing nodes
+* wireframe structures
+* data streams
+
+The locomotive forms first.
+
+The coaches form afterward.
+
+The effect should resemble:
+
+"Digital twin generated from live railway data."
+
+---
+
+PHASE 2 : ARRIVAL
+
+Duration: 2.5 - 5 seconds
+
+After assembly:
+
+The train moves slightly forward.
+
+Movement should be subtle.
+
+NOT across the screen.
+
+Only 10-15% movement toward the viewer.
+
+Add:
+
+* motion blur
+* particle trails
+* energy flow
+* headlight activation
+* track illumination
+
+The movement should feel powerful and cinematic.
+
+---
+
+PHASE 3 : IDLE STATE
+
+After 5 seconds:
+
+Train becomes stationary.
+
+Train remains visible permanently.
+
+Continue subtle animations:
+
+* flowing particles
+* moving circuit patterns
+* energy pulses
+* breathing headlights
+* holographic scan lines
+* track energy flow
+
+The train should never become completely static.
+
+======================================================
+INTERACTION
+===========
+
+Mouse movement:
+
+* subtle parallax
+* train responds slightly
+* smooth interpolation
+* premium feel
+
+Hover near locomotive:
+
+* stronger glow
+* more particle activity
+
+======================================================
+RAILWAY TRACKS
+==============
+
+Build futuristic glowing tracks inspired by the uploaded image.
+
+Tracks should contain:
+
+* orange energy streams
+* moving light pulses
+* reflections
+* depth
+
+When the train completes arrival:
+
+an energy wave travels through the tracks.
+
+======================================================
+TECHNICAL IMPLEMENTATION
+========================
+
+Preferred:
+
+React Three Fiber
+Three.js
+Framer Motion
+
+Fallback:
+
+Canvas
+SVG
+GSAP
+
+Do NOT use:
+
+* PNG train images
+* JPG train images
+* static illustrations
+* screenshots
+* stock assets
+
+Generate the train using code, particles, wireframes and procedural animation.
+
+======================================================
+FINAL RESULT
+============
+
+The uploaded image should serve as the artistic blueprint.
+
+The final hero should look like a living version of that image:
+
+* assembling from particles
+* moving slightly forward
+* stopping
+* remaining alive through continuous subtle animations
+
+The result should feel like a premium technology showcase rather than a railway website.
